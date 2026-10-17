@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff4f5"/><stop offset="1" stop-color="#eef2f7"/></linearGradient></defs>
+<rect width="800" height="440" rx="28" fill="url(#bg)"/>
+<circle cx="660" cy="90" r="45" fill="#ffffff" opacity=".8"/><path d="M0 340 Q180 290 350 340 T800 320 V440 H0Z" fill="#dfe5ec"/>
+<path d="M0 390H800" stroke="#aab2be" stroke-width="5" stroke-dasharray="22 14"/>
+<g transform="translate(110 145)">
+<rect x="0" y="40" width="580" height="155" rx="28" fill="#fff" stroke="#c8102e" stroke-width="8"/>
+<path d="M20 65 Q20 50 40 50 H540 Q560 50 560 70 V110 H20Z" fill="#c8102e"/>
+<g fill="#eaf4ff" stroke="#b5cce3" stroke-width="3">
+<rect x="48" y="68" width="65" height="34" rx="5"/><rect x="133" y="68" width="65" height="34" rx="5"/><rect x="218" y="68" width="65" height="34" rx="5"/><rect x="303" y="68" width="65" height="34" rx="5"/><rect x="388" y="68" width="65" height="34" rx="5"/>
+</g>
+<rect x="470" y="120" width="75" height="48" rx="8" fill="#f0f2f5"/>
+<path d="M30 125H445" stroke="#d6dbe3" stroke-width="6"/>
+<circle cx="110" cy="198" r="28" fill="#303846"/><circle cx="110" cy="198" r="12" fill="#aab3c0"/>
+<circle cx="470" cy="198" r="28" fill="#303846"/><circle cx="470" cy="198" r="12" fill="#aab3c0"/>
+</g><text x="400" y="80" font-family="Arial,sans-serif" font-size="26" font-weight="700" text-anchor="middle" fill="#c8102e">KERETA WISATA</text></svg>
